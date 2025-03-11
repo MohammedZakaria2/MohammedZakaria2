@@ -89,19 +89,20 @@ I am a passionate and results-driven software engineer with expertise in **front
 - 🤖 **AI & Data Integration** – AI tool integration, automation, and data scraping solutions
 - 👥 **Team Leadership** – Experience leading development teams and managing projects
 
-<!-- Languages section -->
+<!-- Languages section 
 ## 💻 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-
+-->
 <!-- Current focus -->
 ## 📚 Currently Learning
 
 - Advanced **AI integrations** for web and mobile applications
 - Building scalable **React Native** apps for production
 - Enhancing automation capabilities with **Puppeteer & AI tools**
+- **AWS** cloud architecture and serverless computing
 
 <!-- Collaboration section
 ## 🤝 Looking to Collaborate
