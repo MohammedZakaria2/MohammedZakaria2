@@ -90,12 +90,15 @@ I am a passionate and results-driven software engineer with expertise in **front
 - 🤖 **AI & Data Integration** – AI tool integration, automation, and data scraping solutions
 - 👥 **Team Leadership** – Experience leading development teams and managing projects
 
-<!-- Current focus -->
-## 📚 Currently Learning
+<!-- Languages section -->
+## 💻 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+<!-- Current focus -->
+## 📚 Currently Learning
 
 - Advanced **AI integrations** for web and mobile applications
 - Building scalable **React Native** apps for production
@@ -108,7 +111,7 @@ I am open to working on **innovative projects** that push the boundaries of tech
 
 <!-- GitHub stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!-- Footer -->
