@@ -8,10 +8,9 @@
   <a href="mailto:mohammed.alalaya@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohammed.alalaya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add your LinkedIn if available -->
-  <!-- <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
+  </a>
   <!-- Add your portfolio if available -->
   <!-- <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
@@ -103,19 +102,25 @@ I am a passionate and results-driven software engineer with expertise in **front
 - Advanced **AI integrations** for web and mobile applications
 - Building scalable **React Native** apps for production
 - Enhancing automation capabilities with **Puppeteer & AI tools**
-- AWS services
 
-<!-- Collaboration section 
+<!-- Collaboration section
 ## 🤝 Looking to Collaborate
 
 I am open to working on **innovative projects** that push the boundaries of technology, particularly in AI-driven applications, front-end excellence, and scalable mobile development. If you have an exciting idea or need an experienced developer, let's connect!
--->
-
+ -->
 <!-- GitHub stats
- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
--->
+ -->
+<!-- Connect with me section -->
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 <!-- Footer -->
 <div align="center">
