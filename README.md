@@ -103,16 +103,19 @@ I am a passionate and results-driven software engineer with expertise in **front
 - Advanced **AI integrations** for web and mobile applications
 - Building scalable **React Native** apps for production
 - Enhancing automation capabilities with **Puppeteer & AI tools**
+- AWS services
 
-<!-- Collaboration section -->
+<!-- Collaboration section 
 ## 🤝 Looking to Collaborate
 
 I am open to working on **innovative projects** that push the boundaries of technology, particularly in AI-driven applications, front-end excellence, and scalable mobile development. If you have an exciting idea or need an experienced developer, let's connect!
+-->
 
-<!-- GitHub stats -->
-<div align="center">
+<!-- GitHub stats
+ <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+-->
 
 <!-- Footer -->
 <div align="center">
